@@ -1,0 +1,34 @@
+	map<string, double, less<string> > unos;
+
+
+
+
+
+bool uporedi(const pair<string, double>&a, const pair<string, double>&b)
+{
+   return a.second<b.second;
+}
+
+ maxIznos = max_element(racun.begin(), racun.end(), uporedi)->second;
+
+
+
+
+int d = stoi(s2);
+
+
+
+cout << setw(2) << setfill('0');
+
+
+sort(mejl.begin(), mejl.end());
+for
+	break;	// <--
+
+
+
+if(!mejl[j]. compare (0,dopuna[i].size(),dopuna[i])) {
+
+if ( s[j]. rfind (s2,0) == 0 )
+
+
